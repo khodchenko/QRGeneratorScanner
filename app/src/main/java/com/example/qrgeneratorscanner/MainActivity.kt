@@ -1,7 +1,6 @@
 package com.example.qrgeneratorscanner
 
 import android.Manifest
-import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import androidx.appcompat.app.AppCompatActivity
@@ -10,7 +9,7 @@ import android.widget.Button
 import android.widget.ImageView
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import java.security.Permission
+
 
 
 class MainActivity : AppCompatActivity() {
